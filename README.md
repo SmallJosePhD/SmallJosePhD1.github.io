@@ -9,4 +9,4 @@ The central theme of my research interests broadly lies at the intersection of i
 
 Building on my strong background in econometric theory, micro- and macroeconomic theory, statistics, mathematics, political economy, and development economics, I have, since 2017 (after my bachelor's degree), employed innovative theories and computational methodologies to illuminate the complexity of a number of social, economic, and political issues. These include the drivers and inhibitors of poverty in Nigeria, the health spending-outcome nexus, the implication of the oil-corruption association for fiscal and economic sustainability; and the size of money laundering, amongst others.
 
-My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on the _role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies_.
+My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies.
