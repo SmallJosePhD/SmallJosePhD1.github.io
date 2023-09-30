@@ -1,8 +1,12 @@
 ### Welcome to my website
 
-My name is Joseph David. I am a Research and Teaching Assistant at the <a href="https://lbs.edu.ng" target="_blank">Lagos Business School, Pan-Atlantic Univerity </a>, Lagos, where I work with outstanding researchers on interesting and innovative research projects. I am also a Research Associate at Covenant University's Centre for Economic Policy and Development Research (CEPDeR). 
+My name is Joseph David. I am currently studying for a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/">Universiti Pendidikan Sultan Idris, Malaysia </a>. 
 
-My main research interests are in public and development economics. From 2017 to date, I have worked on interesting and exciting research revolving around development economics, public finance, corruption, energy economics, and the economics of crime (with a bias in money laundering). My current research focuses on the determination of the quantum, flows, and laundering of illicit funds associated with criminal and illegal activities, including grand corrupt practices, kidnapping, terrorism, and tax evasion, amongst others, in Nigeria and Africa.
+I am a Research Associate at the Covenant University's <a href ="https://cepder.covenantuniversity.edu.ng/"> Centre for Economic Policy and Development Research (CEPDeR)</a>. I was previously affiliated with the <a href="https://lbs.edu.ng" target="_blank">Lagos Business School, Pan-Atlantic Univerity </a>, Lagos, where I worked as a Research and Teaching Assistant under the mentorship of <a href ="https://www.lbs.edu.ng/faculty_profiles/akintola-owolabi/">Professor Akintola Owolabi</a>.  
+
+The central theme of my research interests broadly lies at the intersection of illicit activities (such as corruption, money laundering, and underground economic activities), fiscal sustainability, and sustainable development in Nigeria and other developing countries. Building my knowledge of econometric theory, micro- and macroeconomic theory, statistics, mathematics, political economy, and development economics, I have – since 2017 (after my bachelor's degree) – adopted innovative computational approaches to provide insight into a number of socioeconomic, political and environmental issues, including poverty enablers and  alleviators in Nigeria, the health spending-outcome nexus, the implication of oil-corruption relation for fiscal and economic sustainability, and the size of money laundering, amongst others.
+
+My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies.
 
 ---
 
